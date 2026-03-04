@@ -64,4 +64,4 @@ Key design decisions:
 ## Author
 
 **Uchenna Ibeziako** — UI/UX Design Lead  
-[LinkedIn](#) · [Email](mailto:ucibeziako@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/uchenna-ibeziako/) · [Email](mailto:ucibeziako@gmail.com)
